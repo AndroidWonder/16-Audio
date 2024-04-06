@@ -1,6 +1,5 @@
 package com.course.example;
 
-//This example works at API 32 but not API 33
 import android.app.Activity;
 import android.media.MediaPlayer;
 import android.os.Bundle;
